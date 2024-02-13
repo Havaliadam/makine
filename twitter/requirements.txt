@@ -1,0 +1,13 @@
+snscrape
+transformers
+re
+numpy
+pandas
+mtranslate
+datetime
+timeit
+langdetect
+alive_progress
+sklearn
+lightgbm
+catboost
